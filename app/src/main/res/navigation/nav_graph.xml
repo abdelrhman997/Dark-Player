@@ -29,4 +29,9 @@
         android:name="com.example.play.Fragment5"
         tools:layout="@layout/fragment_fragment5"
         android:label="@string/fragment_5" />
+    <activity
+        android:id="@+id/signInActivity"
+        android:name="com.example.play.SignInActivity"
+        android:label="activity_sign_in"
+        tools:layout="@layout/activity_sign_in" />
 </navigation>

@@ -11,4 +11,8 @@
     <string name="searching_image">searching image</string>
     <string name="available_competitions">Available Competitions</string>
     <string name="searching_for_a_competitor">Searching for a competitor ...</string>
+    <string name="userName">User Name</string>
+    <string name="password">Password</string>
+    <string name="image">image</string>
+    <string name="sign_in">Sign in</string>
 </resources>
