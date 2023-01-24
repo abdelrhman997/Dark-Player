@@ -8,4 +8,7 @@
     <string name="fragment_5">Cup</string>
 
     <string name="last_match_result">Last Match Result :</string>
+    <string name="searching_image">searching image</string>
+    <string name="available_competitions">Available Competitions</string>
+    <string name="searching_for_a_competitor">Searching for a competitor ...</string>
 </resources>
